@@ -37,3 +37,7 @@ This project presents a Sales Analysis Dashboard created using Microsoft Excel. 
 
 - Sales_Analysis_Dashboard.xlsx
 - dashboard.png
+
+## Dashboard Preview
+
+![Sales Analysis Dashboard](dashboard.png)
